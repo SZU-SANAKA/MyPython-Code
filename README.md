@@ -1,3 +1,3 @@
 # MyPython-Code
-实验所使用代码
+科技论文图像绘制pycode
 #This is mycode
